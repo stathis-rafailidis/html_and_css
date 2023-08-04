@@ -1,0 +1,13 @@
+body{
+    background-image: url(util_images/tom-winckels-I7oLRdM9YIw-unsplash.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    padding: 30px;
+}
+p1{
+    background-color: rgb(112, 238, 238);
+    font-size: 100px;
+    font-family: Impact,'Times New Roman', Georgia
+}
