@@ -1,0 +1,21 @@
+body{
+    background-image: url(mountain/sajad-fi-TEmgOcfh2WM-unsplash.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+#abc {
+    display: inline-block;
+    position: relative;
+    z-index : 1;
+ }
+ #abc img { border: 1px red solid; display: block; }
+ #abc + img { position: absolute; z-index: 1; top: 15px; right: 30px; }
+
+#abc {
+    padding: 1px;
+    
+ }
+ 
+ 
